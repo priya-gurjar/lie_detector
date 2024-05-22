@@ -48,7 +48,7 @@ sleep (1)
 
 from sklearn.preprocessing import normalize
 
-data1=pd.read_csv("/home/risana/Downloads/Signal-Processing--master/5.Py_Scripts/Predict_Final.csv")
+data1=pd.read_csv("/home/priya/Downloads/Signal-Processing--master/5.Py_Scripts/Predict_Final.csv")
 ###### importing the classfier
 
 #print "Normalized"
