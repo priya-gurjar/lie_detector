@@ -32,7 +32,7 @@ You need to go to your bluetooth settings and then find out the port by which yo
 
     To implement my model, you may use "Predict_final.py" script present in my repository.In this script you have to make a change in the following line of code-
 
-data1=pd.read_csv("/home/risana/Downloads/Signal-Processing--master/5.Py_Scripts/Predict_Final.csv")
+data1=pd.read_csv("/home/priya/Downloads/Signal-Processing--master/5.Py_Scripts/Predict_Final.csv")
 
 Actually the data you collected is written in a csv file in the directory where you have run the above script "Predict_final.py" in a file named Predict_Final.csv , so instead of "/media/arpit/New Volume/3.Projects/EEG_Project/Raw_Data/Total_Normalised_data_Collection" in above line of code you have to put the address of the directory in which you have run the script "Predict_final.py".
 
